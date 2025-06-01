@@ -14,19 +14,19 @@ Program membutuhkan requirements sebagai berikut agar dapat dijalankan dengan ba
 
 ## 3. Langkah-langkah mengcompile atau build program
 1. Clone repository ini sebagai logic bot yang akan digunakan
-   git clone https://github.com/7H0shi/Tubes1_9ame-9acor.git
+   `git clone https://github.com/7H0shi/Tubes1_9ame-9acor.git`
 
 2. Clone repository ini sebagai game engine etimo 1.1
-   git clone https://github.com/haziqam/tubes1-IF2211-game-engine.git
+   `git clone https://github.com/haziqam/tubes1-IF2211-game-engine/releases/tag/v1.1.0`
 
 3. Jalankan bot dengan run-bots.bat atau run-bots.sh
    
 4. Menjalankan bot secara keseluruhan dengan
-   ./run-bots.bat
+   `./run-bots.bat`
    atau
-   chmod +x ./run-bots.sh
-   ./run-bots.sh
+   `chmod +x ./run-bots.sh
+   ./run-bots.sh`
    
 5. Jalankan bot secara manual
    Menggunakan command
-   
+   `python main.py --logic gacorbot --email=9ame_9acor@gmail.com --name=gacorbot --password=123456 --team etimo`
