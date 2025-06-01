@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/74605edf-f30a-45ad-81cd-4c6ea2613330)# Tubes1_9ame-9acor
+# Tubes1_9ame-9acor
 ## 1.Penjelasan Algoritma Greedy Yang Diimplementasikan
 Algoritma Greedy yang diimplementasikan mencakup:
 1) Mencari diamond terdekat, jika diamond merah dan diamond biru berada pada jarak yang sama maka akan memprioritaskan diamond dengan value yang lebih tinggi
@@ -17,13 +17,13 @@ Program membutuhkan requirements sebagai berikut agar dapat dijalankan dengan ba
    ```bash
    git clone https://github.com/7H0shi/Tubes1_9ame-9acor.git
 
-3. Clone repository ini sebagai game engine etimo 1.1
+2. Clone repository ini sebagai game engine etimo 1.1
    ```bash
    git clone https://github.com/haziqam/tubes1-IF2211-game-engine/releases/tag/v1.1.0
 
-5. Jalankan bot dengan run-bots.bat atau run-bots.sh
+3. Jalankan bot dengan run-bots.bat atau run-bots.sh
    
-6. Menjalankan bot secara keseluruhan dengan
+4. Menjalankan bot secara keseluruhan dengan
    ```bash
    ./run-bots.bat
    ```
@@ -32,7 +32,17 @@ Program membutuhkan requirements sebagai berikut agar dapat dijalankan dengan ba
    chmod +x ./run-bots.sh
    /run-bots.sh
    
-8. Jalankan bot secara manual
+5. Jalankan bot secara manual
    Menggunakan command
    ```bash
-   python main.py --logic gacorbot --email=9ame_9acor@gmail.com --name=gacorbot --password=123456 --team etimo
+   python main.py --logic gacorbot --email=9ame_9acor@email.com --name=gacorbot --password=123456 --team etimo
+
+## 4. Author
+### Kelompok 9ame 9acor
+| No | Nama | NIM  | 
+| -- | ------------- | ------------- | 
+| 01 | Ardiansyah Fernando  | 123140102 | 
+| 02 | Hezkiel Rajani Aritonang | 123140118 |
+| 03 | Andryano Shevchenko Limbong | 123140205  |
+
+
